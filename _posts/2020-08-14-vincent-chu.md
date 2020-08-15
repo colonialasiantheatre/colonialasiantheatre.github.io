@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Missing Footprints: British musical comedy in colonial Hong Kong
+title: "Missing Footprints: British musical comedy in colonial Hong Kong"
 author: Vincent Chu
 category: Hong Kong
 ---
