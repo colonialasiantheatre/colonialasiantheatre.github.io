@@ -3,6 +3,6 @@ nav_pages:
 - title: Home
   url: /
 - title: About
-  url: /about
+  url: /about/
 - title: "Student Works"
-  url: /studentworks
+  url: /studentworks/
