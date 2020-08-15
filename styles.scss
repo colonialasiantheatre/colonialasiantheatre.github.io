@@ -63,7 +63,7 @@
   text-decoration: none;
 }
 .active {
-  font-weight: bold;
+  font-weight: bold !important;
 }
 a:not(:hover) {
   text-decoration: none;
