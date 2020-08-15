@@ -1,10 +1,11 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: Theatre in Colonial South,
+Southeast, and East Asia
+tagline: 
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
-permalink: pretty
+permalink: none
 
 # Gems
 plugins:
