@@ -27,13 +27,11 @@ to
 
 Use https://euangoddard.github.io/clipboard2markdown/ to convert rich text (e.g. from Word or another website) to Markdown.
 
-Add links like so:
-  [this is a link](https://this-link-leads-to-here.com)
-
-This is useful because you can link to HTML elements using an id...
-  [[1]](#ref1)
+Footnotes:
+  [^1] is an in-text footnote
 links to
-  <a id="ref1">[1]</a>
+  [^1]: This is the content of the footnote
+
 
 ## Biblography
 
