@@ -120,9 +120,7 @@ Article 1 -- No Title. *South China Morning Post (1903-1941)*, 26 February 1904.
 
 Chang, Dongshin. *Representing China on the Historical London Stage: From Orientalism to Intercultural Performance*. NYC/Abingdon-on-Thames: Routledge, 2015.
 
-Holder, Heidi J. "Melodrama, Realism and Empire on the British Stage." In *Acts of Supremacy*, edited by J.S. Bratton. Manchester: Manchester University Press, 2017.
-
-*Hong Kong Daily Press,* 24 June 1904. NPDP19040624.
+Holder, Heidi J. "Melodrama, Realism and Empire on the British Stage." In *Acts of Supremacy*, edited by J.S. Bratton. Manchester: Manchester University Press, 2017. *Hong Kong Daily Press,* 24 June 1904. NPDP19040624.
 
 Postlewait, Thomas. *The Cambridge Introduction to Theatre Historiography*. Cambridge: Cambridge University Press, 2012, 9-21.
 

@@ -75,11 +75,9 @@ C.V.H. "Othello in Malayu." *The Singapore Free Press and Mercantile Advertiser*
 
 "Hamlet in Malay." *The Straits Times*, 2 March 1904. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19040302-1.2.5?ST=1&AT=filter&K=tragedy Wayang Kassim&KA=tragedy Wayang Kassim&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1904&QT=tragedy,wayang,kassim&oref=article.
 
-Hermes. "Singapore Social." *The Straits Times*, 19 January 2016, [www.straitstimes.com/singapore/singapore-social](http://www.straitstimes.com/singapore/singapore-social).
+Hermes. "Singapore Social." *The Straits Times*, 19 January 2016, http://www.straitstimes.com/singapore/singapore-social.
 
-"Investigating History: Colonial Singapore (1819-1941)." *National Heritage Board*,
-
-www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/school-programmes/teachers-hi-resource-unit-2-colonial-singapore.pdf?la=en.
+"Investigating History: Colonial Singapore (1819-1941)." *National Heritage Board*, www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/school-programmes/teachers-hi-resource-unit-2-colonial-singapore.pdf?la=en.
 
 "Native Bandmanns." *The Singapore Free Press and Mercantile Advertiser*, 14 October 1910. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19101014-1.2.3?ST=1&AT=filter&K=Wayang shakespeare&KA=Wayang shakespeare&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1910&QT=wayang,shakespeare&oref=article.
 
@@ -89,17 +87,13 @@ www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/school-programmes/teache
 
 **Books and Articles:**
 
-Huang, Alexander C. Y., and Charles Stanley. Ross. *Shakespeare in Hollywood, Asia, and*
+Huang, Alexander C. Y., and Charles Stanley. Ross. *Shakespeare in Hollywood, Asia, and *Cyberspace*.
 
-*Cyberspace*. West Lafayette, IN: Purdue University Press, 2010.
+West Lafayette, IN: Purdue University Press, 2010.
 
-Tofighian, Nadi. "Mapping 'the whirligig of amusements' in olonial Southeast
+Tofighian, Nadi. "Mapping 'the whirligig of amusements' in Colonial Southeast Asia." *Journal of Southeast Asian Studies*, 49, no. 2, 2018, 277--96.
 
-Asia." *Journal of Southeast Asian Studies*, 49, no. 2, 2018, 277--96.
-
-Putten, Jan van der., and Mary Kilcline Cody. *Lost Times and Untold Tales from the Malay*
-
-*World*. Singapore: NUS Press, 2011.
+Putten, Jan van der., and Mary Kilcline Cody. *Lost Times and Untold Tales from the Malay World*. Singapore: NUS Press, 2011.
 
 Smith, Philip. *Shakespeare in Singapore: Performance, Education, and Culture*. Routledge, 2020.
 
