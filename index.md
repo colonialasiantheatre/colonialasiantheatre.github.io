@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-
 ---
 
 ## About
@@ -17,7 +16,7 @@ This website features students' original pieces of historical writing on histori
 -  [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-[See more...](/studentworks) 
+[See more...](/studentworks)
 
 
 ## Resources

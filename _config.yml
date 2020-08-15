@@ -4,7 +4,7 @@ tagline: ""
 url: ""
 paginate: 1
 baseurl: ""
-permalink: none
+permalink: pretty
 
 # Gems
 plugins:
