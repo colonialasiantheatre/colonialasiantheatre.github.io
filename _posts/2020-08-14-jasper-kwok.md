@@ -3,7 +3,7 @@ layout: post
 title: "The significance of theatre and charity in Hong Kong from the early to mid-20th Century"
 author: Jasper Kwok
 category: Hong Kong
-tag: preview
+tag: ""
 ---
 
 Theatre is a performing art form that has been used to entertain audiences all around the world for many generations. However, stage productions are often organised to fulfill even greater, deeper purposes beyond simply being used to amuse the members of any given society. In the first half of the 20th century, specifically in 1937, the Second Sino-Japanese War erupted between the Republic of China and the Empire of Japan. As a result of this severe outbreak of conflict, thousands of mainland Chinese refugees were forced to flee to Hong Kong for a safe haven to escape the advancing Japanese forces.[[1]](#ref1) As such, during this time various Chinese theatrical productions took place in Hong Kong aimed at raising and donating the proceeding funds to war charities to support wounded Chinese soldiers, victims and refugees. This essay will delve into the historical and socio-economic significance of theatre and charity in Hong Kong from the early to mid-20th Century; I will explore how Chinese theatrical performances were primarily organised to generate funds for various charities. Subsequently, I will show how they reflected the sociological and economic conditions at the time by raising awareness on the issues and tribulations faced by China as a whole. The use of the term "charity" in this essay refers to the "voluntary giving of help" to those who are less fortunate and in need, usually through the raising and donation of money.[[2]](#ref2)
