@@ -34,7 +34,7 @@ This website features students' original pieces of historical writing on histori
 
 [Asiatic Society of Mumbai][4] - Digitised books, newspapers, manuscripts, maps, journals, government publications and reports from colonial India.
 
-[ProQuest Historical Newspaper][5]] ([Chinese Newspaper][6] / [SCMP][7]) - Expansive digital archive of historical newspapers
+[ProQuest Historical Newspaper][5] ([Chinese Newspaper][6] / [SCMP][7]) - Expansive digital archive of historical newspapers
 
 [HKUL Special Collections][8] ([Digital][9])
 
