@@ -2,7 +2,7 @@
 layout: post
 title: "A Chinese Honeymoon—Fetishizing China on Stage"
 author: Sharon K. Yuen
-category: Hong Kong
+categories: ["Hong Kong", "Singapore"]
 tag: preview
 ---
 
@@ -90,6 +90,8 @@ doc/BA3200280535/BNCN?u=hku&sid=BNCN&xid=cb36e745.
 <a id="ref26">[25]</a> “THE DALLAS COMPANY,” South China Morning Post (1903-1941).
 
 <a id="ref26">[26]</a> Ibid.
+
+<br>
 
 ## Bibliography
 

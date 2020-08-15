@@ -21,11 +21,11 @@
 <meta property="og:title" content="Student Works" />
 <meta name="author" content="Rashna Nicholson" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="/studentworks/" />
-<meta property="og:url" content="/studentworks/" />
+<link rel="canonical" href="http://localhost:4000/studentworks/" />
+<meta property="og:url" content="http://localhost:4000/studentworks/" />
 <meta property="og:site_name" content="Theatre in Colonial South, Southeast, and East Asia" />
 <script type="application/ld+json">
-{"headline":"Student Works","author":{"@type":"Person","name":"Rashna Nicholson"},"@type":"WebPage","url":"/studentworks/","@context":"https://schema.org"}</script>
+{"headline":"Student Works","author":{"@type":"Person","name":"Rashna Nicholson"},"@type":"WebPage","url":"http://localhost:4000/studentworks/","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -42,9 +42,9 @@
         <br>
         <ul class="nav">
         
-          <li class="nav_item "><a class="nav_link" href="/studentworks">Student Works</a></li>
+          <li class="nav_item active"><a class="nav_link" href="/studentworks/">Student Works</a></li>
         
-          <li class="nav_item "><a class="nav_link" href="/about">About</a></li>
+          <li class="nav_item "><a class="nav_link" href="/about/">About</a></li>
         
           <li class="nav_item "><a class="nav_link" href="/">Home</a></li>
         
@@ -56,17 +56,71 @@
         
           <h1>Student Works</h1>
         
-        
-<h2 id="hong-kong">Hong Kong</h2>
-
-<ul>
-  <li>
-    <p><a href="/hong%20kong/2020/08/14/vincent-chu/">Missing Footprints: British musical comedy in colonial Hong Kong</a> (Vincent Chu)</p>
-  </li>
-  <li>
-    <p><a href="/hong%20kong/2020/08/14/sharon-k-yuen/">A Chinese Honeymoon—Fetishizing China on Stage</a> (Sharon K. Yuen)</p>
-  </li>
+        <ul class="nav">
+  
+    <li class="nav_item">
+      <a class="nav_link tab_link" onclick="open_tab(event, 'singapore')">Singapore</a>
+    </li>
+  
+    <li class="nav_item">
+      <a class="nav_link tab_link" id="default_active" onclick="open_tab(event, 'hong-kong')">Hong Kong</a>
+    </li>
+  
 </ul>
+
+<div id="hong-kong" class="tab_content">
+  <h2 id="hong-kong">Hong Kong</h2>
+
+  <ul>
+    <li>
+      <p><a href="/hong%20kong/2020/08/14/vincent-chu/">Missing Footprints: British musical comedy in colonial Hong Kong</a> (Vincent Chu)</p>
+    </li>
+    <li>
+      <p><a href="/hong%20kong/2020/08/14/sun-ho-kim/">English Theatre as a Colonial Project in Hong Kong</a> (Sun Ho Kim)</p>
+    </li>
+    <li>
+      <p><a href="/hong%20kong/singapore/2020/08/14/sharon-k-yuen/">A Chinese Honeymoon—Fetishizing China on Stage</a> (Sharon K. Yuen)</p>
+    </li>
+  </ul>
+
+</div>
+
+<div id="singapore" class="tab_content">
+  <h2 id="singapore">Singapore</h2>
+
+  <ul>
+    <li><a href="/hong%20kong/singapore/2020/08/14/sharon-k-yuen/">A Chinese Honeymoon—Fetishizing China on Stage</a> (Sharon K. Yuen)</li>
+  </ul>
+
+</div>
+
+<script>
+
+  function open_tab(event, tab_name) {
+    // Declare all variables
+    var i, tab_content, tab_link;
+
+    // Get all elements with class="tab_content" and hide them
+    tab_content = document.getElementsByClassName("tab_content");
+    for (i = 0; i < tab_content.length; i++) {
+      tab_content[i].style.display = "none";
+    }
+
+    // Get all elements with class="tab_link" and remove the class "active"
+    tab_link = document.getElementsByClassName("tab_link");
+    for (i = 0; i < tab_link.length; i++) {
+      tab_link[i].className = tab_link[i].className.replace(" active", "")
+    }
+
+    // Show the current tab, and add an "active" class to the button that opened the tab
+    document.getElementById(tab_name).style.display = "block";
+    event.currentTarget.className += " active";
+
+  }
+
+  open_tab()
+
+</script>
 
 
         <hr>
@@ -75,7 +129,7 @@
       <footer class="footer">
   <small>
     <b>
-      &copy; <time datetime="2020-08-15T02:54:17-04:00">2020</time> School of English, Faculty of Arts, The University of Hong Kong. All rights reserved.
+      &copy; <time datetime="2020-08-15T11:49:20-04:00">2020</time> School of English, Faculty of Arts, The University of Hong Kong. All rights reserved.
     </b>
     <br>
     <br>
