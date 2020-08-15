@@ -3,9 +3,8 @@ layout: post
 title: "Missing Footprints: British musical comedy in colonial Hong Kong"
 author: Vincent Chu
 category: Hong Kong
+tag: preview
 ---
-
-by Vincent Chu
 
 Musical theatre is one of the most popular theatre forms worldwide. Before its reign came a British precursor—musical comedy, which was world-famous in its own right, especially in what was known as the British Empire.[1] Despite its popularity, it had been widely neglected in academia and had been relatively obscured in cultural history.[2] Remnants of it are often ascribed to other forms of entertainment. Its music ‘survived as pub and parlour ballads’ and is associated with the music halls.[3] More than a hundred plays were erroneously ascribed to its American cousin, musical theatre.[4] As an integral component of the British Empire’s past, Hong Kong is expected to have seen its fair share of visiting troupes of this late Victorian and Edwardian art form.[5] Therefore, the city would constitute a good starting point for tracking the footprints of this evanescent giant. In this investigation, I have attempted to document the traces of British musical comedy in colonial Hong Kong through archival research. The findings suggest its lack of success in colonial Hong Kong. Thus, I will attempt to discuss the disparity between the expected popularity and the historical absence of it.
 

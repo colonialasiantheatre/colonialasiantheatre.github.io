@@ -11,17 +11,25 @@
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h3>
+        <br>
+        <ul class="nav">
+        {% for item in site.data.nav.nav_pages reversed %}
+          <li class="nav_item {% if item.url == page.url %}active{% endif %}"><a class="nav_link" href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+        </ul>
       </header>
 
       <main>
+        <hr>
+        {% if page.title != "Home" %}
+          <h1>{{ page.title }}</h1>
+        {% endif %}
         {{ content }}
+        <hr>
       </main>
 
-      <footer class="footer">
-        <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
-        </small>
-      </footer>
+      {% include footer.html %}
+
     </div>
 
     {% if site.ga_analytics %}

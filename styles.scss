@@ -45,3 +45,29 @@
     margin-left: var(--spacer);
   }
 }
+
+.right {
+    text-align: right;
+}
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.nav_item {
+  float: right;
+}
+.nav_link {
+  padding-left: 10px;
+  text-decoration: none;
+}
+.active {
+  font-weight: bold;
+}
+a:not(:hover) {
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}

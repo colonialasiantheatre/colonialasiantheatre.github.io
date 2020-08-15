@@ -1,10 +1,10 @@
 # Setup
 title: Theatre in Colonial South, Southeast, and East Asia
 tagline: ""
-url: https://getpoole.com
+url: ""
 paginate: 1
 baseurl: ""
-permalink: pretty
+permalink: none
 
 # Gems
 plugins:
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Rashna Nicholson
+  url: https://english.hku.hk/people/Faculty/87/Dr_Rashna_Darius_Nicholson
+  email: rnich@hku.hk
 
 # Custom vars
 version: 3.0.0

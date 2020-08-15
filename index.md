@@ -1,15 +1,24 @@
 ---
-layout: page
+layout: default
 title: Home
----
 
-[Student Works](/studentworks)
+---
 
 ## About
 
 This website features students' original pieces of historical writing on histories of colonial South, Southeast, and East Asian theatre during the nineteenth and early twentieth centuries.
 
-[Read more...](/about)
+[See more...](/about)
+
+
+## Student Works
+
+{% for post in site.tags.preview %}
+-  [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+[See more...](/studentworks) 
+
 
 ## Resources
 
