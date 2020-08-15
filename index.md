@@ -26,14 +26,24 @@ This website features students' original pieces of historical writing on histori
 <div id="resources"></div>
 ## Resources
 
-[Delpher](https://www.delpher.nl/) - Digitised Dutch East Indies newspapers, books, and magazines
+[Delpher][1] - Digitised Dutch East Indies newspapers, books, and magazines
 
-[NewspaperSG](https://eresources.nlb.gov.sg/newspapers/) - An online digital archive of Singapore's newspapers
+[NewspaperSG][2] - An online digital archive of Singapore's newspapers
 
-[Digitised HK Newspapers](https://eresources.nlb.gov.sg/newspapers/) - Digitised archive of old HK newspapers
+[Digitised HK Newspapers][3] - Digitised archive of old HK newspapers
 
-[Asiatic Society of Mumbai](https://www.granthsanjeevani.com/jspui/) - Digitised books, newspapers, manuscripts, maps, journals, government publications and reports from colonial India.
+[Asiatic Society of Mumbai][4] - Digitised books, newspapers, manuscripts, maps, journals, government publications and reports from colonial India.
 
-[ProQuest Historical Newspaper](https://about.proquest.com/products-services/pq-hist-news.html) ([Chinese Newspaper](https://search-proquest-com.eproxy.lib.hku.hk/hnpchinesecollection/news/fromDatabasesLayer/databases) / [SCMP](https://search-proquest-com.eproxy.lib.hku.hk/hnpsouthchinamorningpost/databases?accountid=14548)) - Expansive digital archive of historical newspapers
+[ProQuest Historical Newspaper][5]] ([Chinese Newspaper][6] / [SCMP][7]) - Expansive digital archive of historical newspapers
 
-[HKUL Special Collections](https://lib.hku.hk/hkspc/collections.html) ([Digital](https://lib.hku.hk/hkspc/HK-Studies.html))
+[HKUL Special Collections][8] ([Digital][9])
+
+[1]: https://www.delpher.nl/
+[2]: https://eresources.nlb.gov.sg/newspapers/
+[3]: https://eresources.nlb.gov.sg/newspapers/
+[4]: https://www.granthsanjeevani.com/jspui/
+[5]: https://about.proquest.com/products-services/pq-hist-news.html
+[6]: https://search-proquest-com.eproxy.lib.hku.hk/hnpchinesecollection/news/fromDatabasesLayer/databases
+[7]: https://search-proquest-com.eproxy.lib.hku.hk/hnpsouthchinamorningpost/databases?accountid=14548
+[8]: https://lib.hku.hk/hkspc/collections.html
+[9]: https://lib.hku.hk/hkspc/HK-Studies.html
