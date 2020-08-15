@@ -3,6 +3,8 @@ layout: page
 title: Home
 ---
 
+[About](/about) [Student Works](/studentworks)
+
 ## Theatre in Colonial South, Southeast, and East Asia
 
 This website features students' original pieces of historical writing on histories of colonial South, Southeast, and East Asian theatre during the nineteenth and early twentieth centuries.
