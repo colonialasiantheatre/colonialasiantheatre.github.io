@@ -107,6 +107,8 @@ Appendix 3. 'THE HENDRY DALLAS MUSICAL COMEDY COMPANY,' *Soutch China Morning Po
 
 ## Bibliography
 
+<div class="bibliography" markdown="1">
+
 'ARCADY IN HONGKONG: PHILHARMONIC SOCIETY'S SUCCESS WITH MUSICAL COMEDY LOCAL TALENT TRIUMPHS.' *South China Morning Post (1903-1941)*, 16 December 1937, 8*.* [https://search-proquest-com.eproxy.lib.hku.hk/docview/1759907747?accountid=14548.](https://search-proquest-com.eproxy.lib.hku.hk/docview/1759907747?accountid=14548)
 
 Balme, Christopher, and Nic Leonhardt. 'Introduction: Theatrical Trade Routes.' *Journal of Global Theatre History* 1, no. 1 (2016): 1-9.
@@ -134,3 +136,5 @@ Tofighian, Nadi. 'Mapping 'the whirligig of amusements' in colonial Southeast As
 'ZORILLA MUSICAL COMEDY CO.' *South China Morning Post (1903-1941)*, 15 November 1905, 7*.* [https://search-proquest-com.eproxy.lib.hku.hk/docview/1554629754?accountid=14548.](https://search-proquest-com.eproxy.lib.hku.hk/docview/1554629754?accountid=14548)
 
 'ZORILLA MUSICAL COMEDY CO.' *South China Morning Post (1903-1941)*, 20 November 1905, 3*.* https://search-proquest-com.eproxy.lib.hku.hk/docview/1498566768?accountid=14548.
+
+</div>

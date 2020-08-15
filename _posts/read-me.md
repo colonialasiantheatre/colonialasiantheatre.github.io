@@ -1,0 +1,42 @@
+---
+layout: post
+title: "The Title of the Post"
+author: "Sam Lee"
+category: "Planet Earth"
+tag: ""
+---
+
+To make a new post, duplicate and rename this file. The file name should be
+
+  YYYY-MM-DD-any-file-name-separated-by-hyphens.md
+
+where YYYY, MM, and DD refer to numerical characters. Ideally, the date should be meaningful in a consistent way, e.g. date published, date submitted, and so on. You must add a date, or it won't show up on the website (to illustrate, this read me file does not have a date in the filename).
+
+Atom (https://atom.io/) is a good general purpose editor for plaintext files like these.
+
+The content of the post should go below the three hyphens ending the front matter---that is, the section of the file that lists the layout, title, author, and category of the post. Remember to rename the title, author, and category. But do not change the layout.
+
+If you want to add your post to the Student Works section of homepage, add change
+
+  tag: ""
+
+to
+  tag: "preview"
+
+Use https://euangoddard.github.io/clipboard2markdown/ to convert rich text (e.g. from Word or another website) to Markdown.
+
+Add links like so:
+  [this is a link](https://this-link-leads-to-here.com)
+
+This is useful because you can link to HTML elements using an id...
+  [[1]](#ref1)
+links to
+  <a id="ref1">[1]</a>
+
+## Biblography
+
+<div class="bibliography" markdown="1">
+
+Text enclosed in a <div> with class "bibliography" will have hanging indents. Remember to close the div with </div>. markdown="1" tells the website to only parse the text within the container as markdown.
+
+</div>

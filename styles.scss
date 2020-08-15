@@ -46,6 +46,8 @@
   }
 }
 
+// not in theme
+
 .right {
     text-align: right;
 }
@@ -70,4 +72,9 @@ a:not(:hover) {
 }
 a:hover{
   text-decoration: underline;
+}
+
+.bibliography {
+  padding-left: 0.5in ;
+  text-indent: -0.5in ;
 }
