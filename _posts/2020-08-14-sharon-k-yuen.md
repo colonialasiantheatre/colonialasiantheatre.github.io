@@ -3,7 +3,7 @@ layout: post
 title: "A Chinese Honeymoon—Fetishizing China on Stage"
 author: Sharon K. Yuen
 categories: ["Hong Kong", "Singapore"]
-tag: preview
+tag: ""
 ---
 
 *A Chinese Honeymoon*, a musical produced by British company Henry Dallas Musical Comedy Company, was deemed one of the most popular musicals of its times.[[1]](#ref1) A close examination of the musical itself, the agents involved and the reception towards the show reveals the complex nature of how the East is depicted by the West in the 1900s between the colonizers and colonized societies, particularly that of the United Kingdom, Hong Kong and Singapore.[[2]](#ref2) This paper argues that the show reveals a certain fetishizing of the idea of the East from the eyes of the West.

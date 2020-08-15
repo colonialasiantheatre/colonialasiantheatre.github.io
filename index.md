@@ -9,6 +9,9 @@ This website features students' original pieces of historical writing on histori
 
 [See more...](/about)
 
+![](/assets/home1.webp){: style="margin: 0 auto;"}
+
+<hr>
 
 ## Student Works
 
@@ -18,7 +21,9 @@ This website features students' original pieces of historical writing on histori
 
 [See more...](/studentworks)
 
+<hr>
 
+<div id="resources"></div>
 ## Resources
 
 [Delpher](https://www.delpher.nl/) - Digitised Dutch East Indies newspapers, books, and magazines

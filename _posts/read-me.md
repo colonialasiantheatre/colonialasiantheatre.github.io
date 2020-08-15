@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Title of the Post"
-author: "Sam Lee"
-category: "Planet Earth"
+title: "Corporeality, aryanism, race: The theatre and social reform of the Parsis of Western India"
+author: "Rashna D. Nicholson"
+category: ["South Asia", "Another category"]
 tag: ""
 ---
 
@@ -14,7 +14,9 @@ where YYYY, MM, and DD refer to numerical characters. Ideally, the date should b
 
 Atom (https://atom.io/) is a good general purpose editor for plaintext files like these.
 
-The content of the post should go below the three hyphens ending the front matter---that is, the section of the file that lists the layout, title, author, and category of the post. Remember to rename the title, author, and category. But do not change the layout.
+The content of the post should go below the three hyphens ending the front matter---that is, the section of the file that lists the layout, title, author, and category of the post. So, you can replace all this text.
+
+Remember to rename the title, author, and category. But do not change the layout. If you only need one category, remove the comma and the second category (including the second set of quotation marks)
 
 If you want to add your post to the Student Works section of homepage, add change
 

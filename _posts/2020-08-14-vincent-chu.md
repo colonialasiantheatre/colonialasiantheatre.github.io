@@ -24,15 +24,15 @@ From what I could gather, there was a talent shortage that placed British musica
 
 ## Appendix
 
-![](/assets/vchu1.webp)
+![](/assets/vchu1.webp){: width="50%"; style="margin: 0 auto;"}
 
 Appendix 1. 'THE HENDRY DALLAS MUSICAL COMEDY COMPANY,' *Soutch China Morning Post (1903-1941)*, 25 February 1904, 3.
 
-![](/assets/vchu2.webp)
+![](/assets/vchu2.webp){: width="50%"; style="margin: 0 auto;"}
 
 Appendix 2. 'HENDRY DALLAS MUSICAL COMEDY COMPANY,' *Soutch China Morning Post (1903-1941)*, 29 February 1904, 3.
 
-![](/assets/vchu3.webp)
+![](/assets/vchu3.webp){: width="50%"; style="margin: 0 auto;"}
 
 Appendix 3. 'THE HENDRY DALLAS MUSICAL COMEDY COMPANY,' *Soutch China Morning Post (1903-1941)*, 26 February 1904, 3.
 
@@ -49,7 +49,6 @@ Appendix 3. 'THE HENDRY DALLAS MUSICAL COMEDY COMPANY,' *Soutch China Morning Po
 <a id="ref5">[5]</a> Ibid, 9.
 
 <a id="ref6">[6]</a> Christopher Balme, and Nic Leonhardt, 'Introduction: Theatrical Trade Routes,' *Journal of Global Theatre History* 1, no. 1 (2016): 1-9, 4.
-
 
 <a id="ref7">[7]</a> *The Hong Kong Telegraph*, 28 September 1888, 2, NPTG18880928.
 

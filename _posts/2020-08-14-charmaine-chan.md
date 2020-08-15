@@ -2,8 +2,8 @@
 layout: post
 title: "The Unrecognisable Bard: Amalgamating the Colonizer and the Colonized Through Theatre"
 author: Charmaine Chan
-categories: Singapore
-tag: ""
+categories: ["Singapore", "Dutch East Indies"]
+tag: "preview"
 ---
 
 ### Introduction
