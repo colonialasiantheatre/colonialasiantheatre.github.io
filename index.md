@@ -7,7 +7,9 @@ title: Home
 
 This website features students' original pieces of historical writing on histories of colonial South, Southeast, and East Asian theatre during the nineteenth and early twentieth centuries.
 
-[See more...](/about){: .text-right}
+<div style="text-align: right">
+[See more...](/about)
+</div>
 
 ![](/assets/home1.webp){: style="margin: 0 auto;"}
 <p class="right" style="font-size: 80%">1828 Map of Asia from F. D. Zachary, Public Domain</p>
