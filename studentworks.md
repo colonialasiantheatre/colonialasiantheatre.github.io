@@ -32,7 +32,7 @@ title: Student Works
 
 {% for category_citation in site.data.citation_img %}
 
-<div id="{{ category_citation[0] }}" class="tab_content" style="text-align: right;" markdown="1">
+<div id="{{ category_citation[0] }}" class="tab_content" style="text-align: right;">
 {{ category_citation[1] }}
 </div>
 
