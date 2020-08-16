@@ -15,7 +15,7 @@ This website features students' original pieces of historical writing on histori
 ![](/assets/home1.webp){: style="margin: 0 auto;"}
 
 <div style="text-align: right; font-size: 80%;" markdown="1">
-[Asia (1828 Map of Asia)](https://www.raremaps.com/gallery/detail/54000mr/asia-by-f-d-zachary-may-1828-anonymous) by F. D. Zachary in  in the [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/)
+[Asia (1828 Map of Asia)](https://www.raremaps.com/gallery/detail/54000mr/asia-by-f-d-zachary-may-1828-anonymous) by F. D. Zachary in the [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/)
 </div>
 
 <hr>
