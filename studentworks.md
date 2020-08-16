@@ -22,6 +22,7 @@ title: Student Works
 {% for category in site.categories %}
 <div id="{{ category[0] | downcase |  replace: " ", "-" }}" class="tab_content" markdown="1">
 ##  {{ category[0] }}
+![](/assets/{{ category[0] | downcase |  replace: " ", "-" }}.jpg){: style="margin: 0 auto;"}
   {% assign sorted_posts = category[1] | sort %}
   {% for post in sorted_posts %}
   -  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
