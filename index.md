@@ -21,9 +21,9 @@ This website features students' original pieces of historical writing on histori
 {% for post in site.tags.preview %}
 -  [{{ post.title }}]({{ post.url }})
 {% endfor %}
-
+<div style="text-align: right" markdown="1">
 [See more...](/studentworks)
-
+</div>
 <hr>
 
 <div id="resources"></div>
