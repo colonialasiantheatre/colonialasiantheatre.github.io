@@ -22,20 +22,6 @@ Although joining itinerant troupes was an option for musical comedy practitioner
 
 From what I could gather, there was a talent shortage that placed British musical comedy at a disadvantage during its touring days in Hong Kong. However, the favourable conditions for the theatre trade might have in turn benefitted its coevals in thriving financially and welcomed the emergence of film. There are a few perspectives to consider for further investigation. The transformation of musical comedy from the stage to the silver screen was certainly crucial and deserves investigation. As the genre was a recreation of the British sentiments and the society, it was a product of realism and glamour. It is worth looking into the theatrical technologies of colonial Hong Kong and examining whether they were up to the task of producing British musical comedy. Despite its evanescence, British musical comedies were incorporated into music halls' programmes.[^32] It might have survived as artistic heritage in current forms of theatre in Hong Kong as well. It is worth investigating its artistic impact in morphing theatre.
 
-## Appendix
-
-![](/assets/vchu1.webp){: width="50%"; style="margin: 0 auto;"}
-
-Appendix 1. 'THE HENDRY DALLAS MUSICAL COMEDY COMPANY,' *Soutch China Morning Post (1903-1941)*, 25 February 1904, 3.
-
-![](/assets/vchu2.webp){: width="50%"; style="margin: 0 auto;"}
-
-Appendix 2. 'HENDRY DALLAS MUSICAL COMEDY COMPANY,' *Soutch China Morning Post (1903-1941)*, 29 February 1904, 3.
-
-![](/assets/vchu3.webp){: width="50%"; style="margin: 0 auto;"}
-
-Appendix 3. 'THE HENDRY DALLAS MUSICAL COMEDY COMPANY,' *Soutch China Morning Post (1903-1941)*, 26 February 1904, 3.
-
 <hr>
 
 [^1]: Len Platt, *Musical Comedy on the West End Stage, 1890-1939* (NYC: Springer, 2004), 9.
