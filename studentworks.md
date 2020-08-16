@@ -26,23 +26,16 @@ title: Student Works
 <div id="{{ category_id }}" class="tab_content" markdown="1">
 ##  {{ category[0] }}
 ![](/assets/{{ category_id }}.jpg){: style="margin: 0 auto;"}
+{% assign category_citation = site.data.citation_img.[{{ category_id }}] %}
+{{ category_citation.citation }}
 
-{% for category_citation in site.data.citation_img %}
-<div id="{{ category_citation[0] }}" class="tab_content" style="text-align: right;">
-{{ category_citation[1] }}
-</div>
-{% endfor %}
-
-{% assign sorted_posts = category[1] | sort %}
-{% for post in sorted_posts %}
--  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
-{% endfor %}
+  {% assign sorted_posts = category[1] | sort %}
+  {% for post in sorted_posts %}
+  -  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
+  {% endfor %}
 
 </div>
 
 {% endfor %}
-
-
-
 
 {% include nav_tab_script.html %}
