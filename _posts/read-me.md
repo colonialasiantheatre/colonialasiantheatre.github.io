@@ -33,7 +33,7 @@ links to
   [^1]: This is the content of the footnote
 
 
-## Biblography
+## Bibliography
 
 <div class="bibliography" markdown="1">
 
