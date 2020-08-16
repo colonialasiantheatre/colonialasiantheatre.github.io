@@ -10,6 +10,7 @@ This website features students' original pieces of historical writing on histori
 [See more...](/about)
 
 ![](/assets/home1.webp){: style="margin: 0 auto;"}
+<p class="right" style="font-size: 80%">1828 Map of Asia from F. D. Zachary, Public Domain</p>
 
 <hr>
 
