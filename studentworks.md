@@ -27,11 +27,25 @@ title: Student Works
 ![](/assets/{{ category_id }}.jpg){: style="margin: 0 auto;"}
 </div>
 
-<div id="{{ category_id }}" class="tab_content" markdown="1">
-{% assign sorted_posts = category[1] | sort %}
-{% for post in sorted_posts %}
--  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
 {% endfor %}
+
+{% for category_citation in site.data.citation_img %}
+
+<div id="{{ category_citation[0] }}" class="tab_content" style="text-align: right;" markdown="1">
+{{ category_citation.citation }}
+</div>
+{% endfor %}
+
+{% for category in site.categories %}
+
+{% assign category_id = category[0] | downcase |  replace: " ", "-" %}
+<div id="{{ category_id }}" class="tab_content" markdown="1">
+
+  {% assign sorted_posts = category[1] | sort %}
+  {% for post in sorted_posts %}
+  -  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
+  {% endfor %}
+
 </div>
 
 {% endfor %}
