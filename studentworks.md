@@ -20,8 +20,9 @@ title: Student Works
 </div>
 
 {% for category in site.categories %}
-
 {% assign category_id = category[0] | downcase |  replace: " ", "-" %}
+
+{{ category_id }}
 
 <div id="{{ category_id }}" class="tab_content" markdown="1">
 ##  {{ category[0] }}
@@ -38,6 +39,7 @@ title: Student Works
 
 {% for category in site.categories %}
 
+{% assign category_id = category[0] | downcase |  replace: " ", "-" %}
 <div id="{{ category_id }}" class="tab_content" markdown="1">
 
   {% assign sorted_posts = category[1] | sort %}
