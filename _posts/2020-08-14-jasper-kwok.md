@@ -87,7 +87,7 @@ In conclusion, theatre has been used to entertain audiences all around the world
 
 "Endeavourers School Plan." *South China Morning Post (1903-1941),* 20 May 1959. <https://search-proquest-com.eproxy.lib.hku.hk/hnpsouthchinamorningpost/docview/1532348507/87FCCCF3828D43AEPQ/7?accountid=1454>.
 
-"Hong Kong Profile - Timeline." *BBC*, 24 June 2019. [www.bbc.com/news/world-asia-pacific-16526765](http://www.bbc.com/news/world-asia-pacific-16526765).
+"Hong Kong Profile - Timeline." *BBC*, 24 June 2019. <http://www.bbc.com/news/world-asia-pacific-16526765>.
 
 "IN AID OF CHARITY: Special Performances at Ko Shing Theatre GOVERNOR SENDS CHEQUE." *South China Morning Post (1903-1941),* 15 July 1931. <https://search-proquest-com.eproxy.lib.hku.hk/hnpsouthchinamorningpost/docview/1538776629/9565F78882244E0FPQ/16?accountid=1454>.
 
@@ -113,11 +113,11 @@ Lan-Fan, Mei. "CHARITY SHOWS: Recent Performances." *South China Morning Post (1
 
 Lau, Chu Pak. "CHINESE THEATRICAL PERFORMANCES: $19,600 FOR WAR CHARITIES FUND." *South China Morning Post (1903-1941),* 21 December 1916. <https://search-proquest-com.eproxy.lib.hku.hk/hnpsouthchinamorningpost/docview/1499970100/A1AAF42B4CA24249PQ/4?accountid=14548>.
 
-Lexico Dictionaries. "Charity: Definition of Charity by Lexico." [www.lexico.com/en/definition/charity](http://www.lexico.com/en/definition/charity).
+Lexico Dictionaries. "Charity: Definition of Charity by Lexico." <http://www.lexico.com/en/definition/charity>.
 
 Postlewait, Thomas. *The Cambridge Introduction to Theatre Historiography*. New York: Cambridge University Press, 2009.
 
-Ribera, Pedro, Ricardo García-Herrera, Luis Gimeno, and Emiliano Hernández. "The Selga Chronology, Part II: 1901-1934." *Risk Prediction Initiative*, Universidad Complutense de Madrid. [webs.ucm.es/info/tropical/selga-ii.html.](http://webs.ucm.es/info/tropical/selga-ii.html)
+Ribera, Pedro, Ricardo García-Herrera, Luis Gimeno, and Emiliano Hernández. "The Selga Chronology, Part II: 1901-1934." *Risk Prediction Initiative*, Universidad Complutense de Madrid. <http://webs.ucm.es/info/tropical/selga-ii.html>.
 
 Tong, W.K. "CHINESE PLAYS: Theatrical Performance At Ko Shing PROGRAMME SUMMARY." *South China Morning Post (1903-1941),* 8 January 1946. <https://search-proquest-com.eproxy.lib.hku.hk/hnpsouthchinamorningpost/docview/1535700201/9565F78882244E0FPQ/10?accountid=1454>.
 

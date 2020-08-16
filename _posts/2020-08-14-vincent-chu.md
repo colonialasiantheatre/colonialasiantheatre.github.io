@@ -99,21 +99,21 @@ From what I could gather, there was a talent shortage that placed British musica
 
 <div class="bibliography" markdown="1">
 
-'ARCADY IN HONGKONG: PHILHARMONIC SOCIETY'S SUCCESS WITH MUSICAL COMEDY LOCAL TALENT TRIUMPHS.' *South China Morning Post (1903-1941)*, 16 December 1937, 8*.* [https://search-proquest-com.eproxy.lib.hku.hk/docview/1759907747?accountid=14548.](https://search-proquest-com.eproxy.lib.hku.hk/docview/1759907747?accountid=14548)
+'ARCADY IN HONGKONG: PHILHARMONIC SOCIETY'S SUCCESS WITH MUSICAL COMEDY LOCAL TALENT TRIUMPHS.' *South China Morning Post (1903-1941)*, 16 December 1937, 8*.* <https://search-proquest-com.eproxy.lib.hku.hk/docview/1759907747?accountid=14548>.
 
 Balme, Christopher, and Nic Leonhardt. 'Introduction: Theatrical Trade Routes.' *Journal of Global Theatre History* 1, no. 1 (2016): 1-9.
 
-'THE BANVARD MUSICAL COMEDY CO.' *South China Morning Post (1903-1941)*, 8 February 1928, 5*.* [https://search-proquest-com.eproxy.lib.hku.hk/docview/1754300333?accountid=14548.](https://search-proquest-com.eproxy.lib.hku.hk/docview/1754300333?accountid=14548)
+'THE BANVARD MUSICAL COMEDY CO.' *South China Morning Post (1903-1941)*, 8 February 1928, 5*.* <https://search-proquest-com.eproxy.lib.hku.hk/docview/1754300333?accountid=14548>.
 
 Becker, Tobias. 'Entertaining the empire: Theatrical touring companies and amateur dramatics in colonial India.' *The Historical Journal* 57, no. 3 (2014): 699-725.
 
 Hansen, Kathryn. 'Mapping melodrama: Global theatrical circuits, Parsi theater, and the rise of the social.' *BioScope: South Asian Screen Studies* 7, no. 1 (2016): 1-30.
 
-'THE HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 25 February 1904, 3*.* [https://search-proquest-com.eproxy.lib.hku.hk/docview/1498463570?accountid=14548.](https://search-proquest-com.eproxy.lib.hku.hk/docview/1498463570?accountid=14548)
+'THE HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 25 February 1904, 3*.* <https://search-proquest-com.eproxy.lib.hku.hk/docview/1498463570?accountid=14548>.
 
-'THE HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 26 February 1904, 3*.* [https://search-proquest-com.eproxy.lib.hku.hk/docview/1499873253?accountid=14548.](https://search-proquest-com.eproxy.lib.hku.hk/docview/1499873253?accountid=14548)
+'THE HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 26 February 1904, 3*.* <https://search-proquest-com.eproxy.lib.hku.hk/docview/1499873253?accountid=14548>.
 
-'HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 29 February 1904, 3*.* [https://search-proquest-com.eproxy.lib.hku.hk/docview/1498464257?accountid=14548.](https://search-proquest-com.eproxy.lib.hku.hk/docview/1498464257?accountid=14548)
+'HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 29 February 1904, 3*.* [<https://search-proquest-com.eproxy.lib.hku.hk/docview/1498464257?accountid=14548>.
 
 Platt, Len. *Musical Comedy on the West End Stage, 1890-1939*. NYC: Springer, 2004.
 
@@ -123,8 +123,8 @@ Tofighian, Nadi. 'Mapping 'the whirligig of amusements' in colonial Southeast As
 
 'THE ZORILLA MUSICAL COMEDY COMPANY.' *The Hong Kong Telegraph*, 15 November 1905, 5, NPTG19051115.
 
-'ZORILLA MUSICAL COMEDY CO.' *South China Morning Post (1903-1941)*, 15 November 1905, 7*.* [https://search-proquest-com.eproxy.lib.hku.hk/docview/1554629754?accountid=14548.](https://search-proquest-com.eproxy.lib.hku.hk/docview/1554629754?accountid=14548)
+'ZORILLA MUSICAL COMEDY CO.' *South China Morning Post (1903-1941)*, 15 November 1905, 7*.* <https://search-proquest-com.eproxy.lib.hku.hk/docview/1554629754?accountid=14548>.
 
-'ZORILLA MUSICAL COMEDY CO.' *South China Morning Post (1903-1941)*, 20 November 1905, 3*.* https://search-proquest-com.eproxy.lib.hku.hk/docview/1498566768?accountid=14548.
+'ZORILLA MUSICAL COMEDY CO.' *South China Morning Post (1903-1941)*, 20 November 1905, 3*.* <https://search-proquest-com.eproxy.lib.hku.hk/docview/1498566768?accountid=14548>.
 
 </div>

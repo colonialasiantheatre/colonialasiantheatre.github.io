@@ -105,20 +105,20 @@ Theatre in the nineteenth century subcontinent may have reconfigured women's rel
 
 <div class="bibliography" markdown="1">
 
-Bandyopadhyaya, Anu. "Look Back with Pride." *The Times of India (1861-Current),* 17 December 1972. [http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/614022799?accountid=14548.](http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/614022799?accountid=14548)
+Bandyopadhyaya, Anu. "Look Back with Pride." *The Times of India (1861-Current),* 17 December 1972. <http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/614022799?accountid=14548>.
 
 Bhattacharya, Rimli. "Introduction: Binodini Dasi and the Public Theatre in Nineteenth century Bengal." In *My Story and My Life as an Actress*, translated by Rimli Bhattacharya. New Delhi: Kali for Women, 1998.
 
-C, N. K. "A MARATHI COMEDY: A WOMEN'S REVOLT." *The Times of India (1861-Current),* 15 May 1908. [http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/231329994?accountid=14548.](http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/231329994?accountid=14548)
+C, N. K. "A MARATHI COMEDY: A WOMEN'S REVOLT." *The Times of India (1861-Current),* 15 May 1908. <http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/231329994?accountid=14548>.
 
-"DRAMA OF BENGAL." *The Times of India (1861-Current),* 22 July 1931. [http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/325237325?accountid=14548.](http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/325237325?accountid=14548)
+"DRAMA OF BENGAL." *The Times of India (1861-Current),* 22 July 1931. <http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/325237325?accountid=14548>.
 
 "THE IMPROVEMENT OF WOMEN." *The Times of India (1861-Current),* 18 December 1877. <http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/234648113?accountid=14548>.
 
-"Editorial Article 1 -- no Title." *The Times of India (1861-Current),* 26 June 1885. [http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/234457615?accountid=14548.](http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/234457615?accountid=14548)
+"Editorial Article 1 -- no Title." *The Times of India (1861-Current),* 26 June 1885. <http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/234457615?accountid=14548>.
 
 "THE THEATRE IN BENGAL." *The Times of India (1861-Current),* 17 February 1873.
 
-Winter's Tale. "Literature: THE DANCING GIRL." *The Bombay Times and Journal of Commerce (1838-1859),* Apr 19, 1845. http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/233707662?accountid=14548.
+Winter's Tale. "Literature: THE DANCING GIRL." *The Bombay Times and Journal of Commerce (1838-1859),* Apr 19, 1845. <http://eproxy.lib.hku.hk/login?url=https://search-proquest-com.eproxy.lib.hku.hk/docview/233707662?accountid=14548>.
 
 </div>
