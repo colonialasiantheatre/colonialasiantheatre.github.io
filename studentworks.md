@@ -29,6 +29,12 @@ title: Student Works
 {% assign category_citation = site.data.citation_img.[{{ category_id }}] %}
 {{ category_citation.citation }}
 
+  {% for category_citation in site.data.citation_img %}
+  <div id="{{ category_citation[0] }}" class="tab_content" style="text-align: right;">
+  {{ category_citation[1] }}
+  </div>
+  {% endfor %}  
+
   {% assign sorted_posts = category[1] | sort %}
   {% for post in sorted_posts %}
   -  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
