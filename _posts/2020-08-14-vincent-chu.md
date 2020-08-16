@@ -58,7 +58,7 @@ From what I could gather, there was a talent shortage that placed British musica
 
 [^17]: 'THE BANVARD MUSICAL COMEDY CO,' *South China Morning Post (1903-1941)*, 8 February 1928, 5*.* https://search-proquest-com.eproxy.lib.hku.hk/docview/1754300333?accountid=14548.
 
-[^18]: See Appendix 1-3.
+[^18]: 'THE HENDRY DALLAS MUSICAL COMEDY COMPANY,' *South China Morning Post (1903-1941)*, 25 February 1904, 3; 'HENDRY DALLAS MUSICAL COMEDY COMPANY,' *South China Morning Post (1903-1941)*, 29 February 1904, 3; and 'THE HENDRY DALLAS MUSICAL COMEDY COMPANY,' *South China Morning Post (1903-1941)*, 26 February 1904, 3.
 
 [^19]: Platt, 29.
 
