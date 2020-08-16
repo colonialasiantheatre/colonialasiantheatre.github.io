@@ -7,7 +7,7 @@ title: Home
 
 This website features students' original pieces of historical writing on histories of colonial South, Southeast, and East Asian theatre during the nineteenth and early twentieth centuries.
 
-<div style="text-align: right">
+<div style="text-align: right" markdown="1">
 [See more...](/about)
 </div>
 
