@@ -21,11 +21,11 @@
 <meta property="og:title" content="Student Works" />
 <meta name="author" content="Rashna Nicholson" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="/studentworks/" />
-<meta property="og:url" content="/studentworks/" />
+<link rel="canonical" href="http://localhost:4000/studentworks/" />
+<meta property="og:url" content="http://localhost:4000/studentworks/" />
 <meta property="og:site_name" content="Theatre in Colonial South, Southeast, and East Asia" />
 <script type="application/ld+json">
-{"headline":"Student Works","author":{"@type":"Person","name":"Rashna Nicholson"},"@type":"WebPage","url":"/studentworks/","@context":"https://schema.org"}</script>
+{"headline":"Student Works","author":{"@type":"Person","name":"Rashna Nicholson"},"@type":"WebPage","url":"http://localhost:4000/studentworks/","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -70,7 +70,7 @@
     </li>
   
     <li class="nav_item">
-      <a class="nav_link tab_link" id="default_active" onclick="open_tab(event, 'hong-kong')">Hong Kong</a>
+      <a class="nav_link tab_link" onclick="open_tab(event, 'hong-kong')">Hong Kong</a>
     </li>
   
     <li class="nav_item">
@@ -78,6 +78,32 @@
     </li>
   
 </ul>
+
+<div id="all-posts" class="tab_content">
+  <p><br /></p>
+
+  <ul>
+    <li>
+      <p><a href="/hong%20kong/2020/08/14/vincent-chu/">Missing Footprints: British musical comedy in colonial Hong Kong</a> (Vincent Chu)</p>
+    </li>
+    <li>
+      <p><a href="/hong%20kong/2020/08/14/sun-ho-kim/">English Theatre as a Colonial Project in Hong Kong</a> (Sun Ho Kim)</p>
+    </li>
+    <li>
+      <p><a href="/hong%20kong/singapore/2020/08/14/sharon-k-yuen/">A Chinese Honeymoon—Fetishizing China on Stage</a> (Sharon K. Yuen)</p>
+    </li>
+    <li>
+      <p><a href="/south%20asia/2020/08/14/khadija-azhar/">Theatre and Women’s Visibility in Nineteenth Century India</a> (Khadija Azhar)</p>
+    </li>
+    <li>
+      <p><a href="/hong%20kong/2020/08/14/jasper-kwok/">The significance of theatre and charity in Hong Kong from the early to mid-20th Century</a> (Jasper Kwok)</p>
+    </li>
+    <li>
+      <p><a href="/singapore/dutch%20east%20indies/2020/08/14/charmaine-chan/">The Unrecognisable Bard: Amalgamating the Colonizer and the Colonized Through Theatre</a> (Charmaine Chan)</p>
+    </li>
+  </ul>
+
+</div>
 
 <div id="singapore" class="tab_content">
   <h2 id="singapore">Singapore</h2>
@@ -152,10 +178,9 @@
     // Show the current tab, and add an "active" class to the button that opened the tab
     document.getElementById(tab_name).style.display = "block";
     event.currentTarget.className += " active";
-
   }
 
-  open_tab()
+  open_tab(event, "all-posts")
 
 </script>
 
@@ -166,7 +191,7 @@
       <footer class="footer">
   <small>
     <b>
-      &copy; <time datetime="2020-08-15T15:17:47-04:00">2020</time> School of English, Faculty of Arts, The University of Hong Kong. All rights reserved.
+      &copy; <time datetime="2020-08-16T13:14:56-04:00">2020</time> School of English, Faculty of Arts, The University of Hong Kong. All rights reserved.
     </b>
     <br>
     <br>
