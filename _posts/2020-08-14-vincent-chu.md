@@ -113,7 +113,7 @@ Hansen, Kathryn. 'Mapping melodrama: Global theatrical circuits, Parsi theater, 
 
 'THE HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 26 February 1904, 3*.* <https://search-proquest-com.eproxy.lib.hku.hk/docview/1499873253?accountid=14548>.
 
-'HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 29 February 1904, 3*.* [<https://search-proquest-com.eproxy.lib.hku.hk/docview/1498464257?accountid=14548>.
+'HENRY DALLAS MUSICAL COMEDY COMPANY.' *South China Morning Post (1903-1941)*, 29 February 1904, 3*.* <https://search-proquest-com.eproxy.lib.hku.hk/docview/1498464257?accountid=14548>.
 
 Platt, Len. *Musical Comedy on the West End Stage, 1890-1939*. NYC: Springer, 2004.
 
