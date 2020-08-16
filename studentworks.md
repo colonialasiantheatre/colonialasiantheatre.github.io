@@ -23,7 +23,7 @@ title: Student Works
 <div id="{{ category[0] | downcase |  replace: " ", "-" }}" class="tab_content" markdown="1">
 ##  {{ category[0] }}
 ![](/assets/{{ category[0] | downcase |  replace: " ", "-" }}.jpg){: style="margin: 0 auto;"}
-{{ site.data.citation_img.[{{ category[0] | downcase |  replace: " ", "-" }}] }}
+{{ site.data.citation_img.[{{ category[0] | downcase |  replace: " ", "-" }}].citation }}
   {% assign sorted_posts = category[1] | sort %}
   {% for post in sorted_posts %}
   -  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
