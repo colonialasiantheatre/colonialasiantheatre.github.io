@@ -26,8 +26,8 @@ title: Student Works
 <div id="{{ category_id }}" class="tab_content" markdown="1">
 ##  {{ category[0] }}
 ![](/assets/{{ category_id }}.jpg){: style="margin: 0 auto;"}
-{% assign category_citation = site.data.citation_img.[{{ category_id }}].citation %}
-{{ category_citation }}
+{% assign category_citation = site.data.citation_img.[{{ category_id }}] %}
+{{ category_citation.citation }}
 
   {% assign sorted_posts = category[1] | sort %}
   {% for post in sorted_posts %}
