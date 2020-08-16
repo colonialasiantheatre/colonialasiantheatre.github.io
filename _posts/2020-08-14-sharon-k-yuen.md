@@ -102,7 +102,7 @@ doc/BA3200280535/BNCN?u=hku&sid=BNCN&xid=cb36e745.
 
 <div class="bibliography" markdown="1">
 
-"A CHINESE HONEYMOON." *Era*, 21 October 1899. British Library Newspapers, [https://link.gale.com/apps/doc/BB3202531212/BNCN?u=hku&sid=BNCN&xid=7a68e87a.](https://link.gale.com/apps/doc/BB3202531212/BNCN?u=hku&sid=BNCN&xid=7a68e87a)
+"A CHINESE HONEYMOON." *Era*, 21 October 1899. British Library Newspapers, <https://link.gale.com/apps/doc/BB3202531212/BNCN?u=hku&sid=BNCN&xid=7a68e87a>.
 
 "THE FOOTLIGHTS." *Northern Echo*, 4 September 1900. <https://link.gale.com/apps/doc/BA3200280535/BNCN?u=hku&sid=BNCN&xid=cb36e745>.
 

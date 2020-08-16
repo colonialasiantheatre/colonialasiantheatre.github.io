@@ -69,21 +69,21 @@ The significance in the research of how Wayang Kassim produced Shakespeare's pla
 
 **Newspapers and Government Publication:**
 
-"A Dutch Shylock." *The Straits Times*, 14 November 1912. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19121114-1.2.7?ST=1&AT=filter&K=shakespearean&KA=shakespearean&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1912&QT=shakespearean&oref=article.
+"A Dutch Shylock." *The Straits Times*, 14 November 1912. <https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19121114-1.2.7?ST=1&AT=filter&K=shakespearean&KA=shakespearean&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1912&QT=shakespearean&oref=article>.
 
-C.V.H. "Othello in Malayu." *The Singapore Free Press and Mercantile Advertiser*, 12 November 1908. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19081112-1.2.93?ST=1&AT=filter&K=shakespearean play&KA=shakespearean play&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1908&QT=shakespearean,play&oref=article.
+C.V.H. "Othello in Malayu." *The Singapore Free Press and Mercantile Advertiser*, 12 November 1908. <https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19081112-1.2.93?ST=1&AT=filter&K=shakespearean play&KA=shakespearean play&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1908&QT=shakespearean,play&oref=article>.
 
-"Hamlet in Malay." *The Straits Times*, 2 March 1904. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19040302-1.2.5?ST=1&AT=filter&K=tragedy Wayang Kassim&KA=tragedy Wayang Kassim&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1904&QT=tragedy,wayang,kassim&oref=article.
+"Hamlet in Malay." *The Straits Times*, 2 March 1904. <https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19040302-1.2.5?ST=1&AT=filter&K=tragedy Wayang Kassim&KA=tragedy Wayang Kassim&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1904&QT=tragedy,wayang,kassim&oref=article>.
 
-Hermes. "Singapore Social." *The Straits Times*, 19 January 2016, http://www.straitstimes.com/singapore/singapore-social.
+Hermes. "Singapore Social." *The Straits Times*, 19 January 2016, <http://www.straitstimes.com/singapore/singapore-social>.
 
-"Investigating History: Colonial Singapore (1819-1941)." *National Heritage Board*, www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/school-programmes/teachers-hi-resource-unit-2-colonial-singapore.pdf?la=en.
+"Investigating History: Colonial Singapore (1819-1941)." *National Heritage Board*, <www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/school-programmes/teachers-hi-resource-unit-2-colonial-singapore.pdf?la=en>.
 
-"Native Bandmanns." *The Singapore Free Press and Mercantile Advertiser*, 14 October 1910. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19101014-1.2.3?ST=1&AT=filter&K=Wayang shakespeare&KA=Wayang shakespeare&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1910&QT=wayang,shakespeare&oref=article.
+"Native Bandmanns." *The Singapore Free Press and Mercantile Advertiser*, 14 October 1910. <https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19101014-1.2.3?ST=1&AT=filter&K=Wayang shakespeare&KA=Wayang shakespeare&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=1910&QT=wayang,shakespeare&oref=article>.
 
-"To Be or Not to Be in Bangsawan." *The Strait Times*, 26 May 1988. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880526-1.2.67.8.1?ST=1&AT=search&k=shakespearean Wayang Kassim&QT=shakespearean,wayang,kassim&oref=article.
+"To Be or Not to Be in Bangsawan." *The Strait Times*, 26 May 1988. <https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880526-1.2.67.8.1?ST=1&AT=search&k=shakespearean Wayang Kassim&QT=shakespearean,wayang,kassim&oref=article>.
 
-"Untitled." *The Straits Times*, 10 August 1908. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080810-1.2.39?ST=1&AT=filter&K=tragedy Wayang Kassim&KA=tragedy Wayang Kassim&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=&QT=tragedy,wayang,kassim&oref=article.
+"Untitled." *The Straits Times*, 10 August 1908. <https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080810-1.2.39?ST=1&AT=filter&K=tragedy Wayang Kassim&KA=tragedy Wayang Kassim&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=&CT=&WC=&YR=&QT=tragedy,wayang,kassim&oref=article>.
 
 **Books and Articles:**
 
