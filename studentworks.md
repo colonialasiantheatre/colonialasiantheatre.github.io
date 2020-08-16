@@ -20,16 +20,22 @@ title: Student Works
 </div>
 
 {% for category in site.categories %}
+
 {% assign category_id = category[0] | downcase |  replace: " ", "-" %}
+
 <div id="{{ category_id }}" class="tab_content" markdown="1">
 ##  {{ category[0] }}
 ![](/assets/{{ category_id }}.jpg){: style="margin: 0 auto;"}
-{{ site.data.citation_img.[{{ category_id }}].citation }}
+{% assign category_citation = site.data.citation_img.[{{ category_id }}].citation %}
+{{ category_citation }}
+
   {% assign sorted_posts = category[1] | sort %}
   {% for post in sorted_posts %}
   -  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
   {% endfor %}
+
 </div>
+
 {% endfor %}
 
 {% include nav_tab_script.html %}
