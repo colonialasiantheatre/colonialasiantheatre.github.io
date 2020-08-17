@@ -47,7 +47,7 @@ This website features students' original pieces of historical writing on histori
 
 [1]: https://www.delpher.nl/
 [2]: https://eresources.nlb.gov.sg/newspapers/
-[3]: https://eresources.nlb.gov.sg/newspapers/
+[3]: https://mmis.hkpl.gov.hk/web/guest/old-hk-collection?from_menu=Y&dummy=
 [4]: https://www.granthsanjeevani.com/jspui/
 [5]: https://about.proquest.com/products-services/pq-hist-news.html
 [6]: https://search-proquest-com.eproxy.lib.hku.hk/hnpchinesecollection/news/fromDatabasesLayer/databases
