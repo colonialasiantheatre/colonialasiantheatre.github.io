@@ -12,7 +12,7 @@ title: Student Works
   {% endfor %}
 </ul>
 
-<div id="all-posts" class="tab_content" markdown="1">
+<div class="all-posts tab_content" markdown="1">
   <br>
   {% for post in site.posts %}
   -  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
@@ -22,8 +22,8 @@ title: Student Works
 {% for category in site.categories %}
 {% assign category_id = category[0] | downcase |  replace: " ", "-" %}
 
-<div id="{{ category_id }}" class="tab_content" markdown="1">
-##  {{ category[0] }}
+<div class="{{ category_id }} tab_content" markdown="1">
+## {{ category[0] }}
 ![](/assets/{{ category_id }}.jpg){: style="margin: 0 auto;"}
 </div>
 
@@ -31,21 +31,22 @@ title: Student Works
 
 {% for category_citation in site.data.citation_img %}
 
-<div id="{{ category_citation[0] }}" class="tab_content" style="text-align: right;" markdown="1">
-{{ category_citation.citation }}
+<div class="{{ category_citation.name }} tab_content" style="text-align: right; font-size: 80%;" markdown="1">
+{% assign citation = category_citation.citation %}
+{{ citation }}
 </div>
 {% endfor %}
+
+<br>
 
 {% for category in site.categories %}
 
 {% assign category_id = category[0] | downcase |  replace: " ", "-" %}
-<div id="{{ category_id }}" class="tab_content" markdown="1">
-
+<div class="{{ category_id }} tab_content" markdown="1">
   {% assign sorted_posts = category[1] | sort %}
   {% for post in sorted_posts %}
   -  [{{ post.title }}]({{ post.url }}) ({{ post.author }})
   {% endfor %}
-
 </div>
 
 {% endfor %}
